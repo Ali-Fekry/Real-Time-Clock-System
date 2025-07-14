@@ -48,7 +48,6 @@ Real-Time-Clock-System/
 ├── utils.c / utils.h   # Timer delays, button debouncing
 ├── README.md           # This documentation file
 ```
-
 ---
 
 ## 🚀 How to Run
