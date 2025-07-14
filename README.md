@@ -40,12 +40,14 @@ This embedded system displays the current time and date, and supports alarm sett
 ---
 
 ## 📁 Folder Structure
-```Real-Time-Clock-System/
-├── main.c # Core logic (mode switching, main loop)
-├── rtc.c / rtc.h # RTC driver functions (read/write time/date)
-├── lcd.c / lcd.h # LCD interfacing functions
-├── utils.c / utils.h # Timer delays, button debouncing
-├── README.md # This documentation file```
+```
+Real-Time-Clock-System/
+├── main.c              # Core logic (mode switching, main loop)
+├── rtc.c / rtc.h       # RTC driver functions (read/write time/date)
+├── lcd.c / lcd.h       # LCD interfacing functions
+├── utils.c / utils.h   # Timer delays, button debouncing
+├── README.md           # This documentation file
+```
 
 ---
 
